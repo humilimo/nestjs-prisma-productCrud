@@ -1,3 +1,16 @@
+Get all products
+![image](https://github.com/humilimo/nestjs-prisma-productCrud/assets/102665384/469785d9-9316-4fd5-ae2b-197f8ea84d49)
+Get specific product
+![image](https://github.com/humilimo/nestjs-prisma-productCrud/assets/102665384/a56d01b0-a486-4f56-a9fa-e79705fd1fee)
+Create product if it doesn't exist
+![image](https://github.com/humilimo/nestjs-prisma-productCrud/assets/102665384/cb33af92-6cf7-43d8-a820-db371f65d71a)
+Update product
+![image](https://github.com/humilimo/nestjs-prisma-productCrud/assets/102665384/a98415a8-c827-4daf-be81-eeea72011198)
+Delete product
+![image](https://github.com/humilimo/nestjs-prisma-productCrud/assets/102665384/3bb982d9-f363-4a8c-a4c3-4ff48c1b4f44)
+If it exists, buy product
+![image](https://github.com/humilimo/nestjs-prisma-productCrud/assets/102665384/ac5af62e-156d-4b36-82c2-18505cf73d09)
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
